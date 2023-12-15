@@ -3,7 +3,7 @@ import logo from '../images/logo.png'
 
 const NavBar = () => {
   return (
-    <div className='bg-white px-5 py-5 flex flex-col items-start'>
+    <div className='bg-white px-5 py-5 flex flex-col items-center'>
         <img src={logo} alt="" className='h-16'/>
         <h1 className='font-regular font-lexend'>Namma Bengaluru League</h1>
         <h1 className='font-regular font-lexend'>ನಮ್ಮ ಬೆಂಗಳೂರು ಲೀಗ್</h1>
